@@ -3,7 +3,7 @@
 ## 🚀 Présentation
 
 Ce projet vise à développer une **caméra intelligente** capable de reconnaître en **temps réel** quelques mots ou phrases simples à partir des **mouvements labiaux**, sans utiliser de microphone.
-Le prototype repose sur un vocabulaire restreint (5 à 10 mots de base, ex : *yes, no, help, stop, go*) et sera déployé sur **Jetson Nano** ou **Jetson Xavier**.
+Le prototype repose sur un vocabulaire restreint (5 à 10 mots de base, ex : *yes, no, help, stop, go*) et sera déployé sur **Jetson Nano** .
 
 Impact :
 
@@ -28,7 +28,7 @@ Impact :
   * Tache 1 : Acquisition & traitement vidéo.
   * Tache 2 : Modèle IA (entraînement).
   * Tache 3 : Déploiement Jetson + interface.
-* **Matériel** : caméra USB + Jetson Nano 2Go.
+* **Matériel** : caméra USB + Jetson Nano 2Gb.
 * **Limites** :
   * Vocabulaire restreint.
   * Classification de mots courts (pas de phrases continues).
