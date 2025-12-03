@@ -30,8 +30,7 @@ The project is suitable for university work, research projects, or learning sequ
 ```
 project/
 │
-├── src/
-|   |── blue.py           # Collect the videos from the dataset where the word 'blue' is pronounced
+├── |── blue.py           # Collect the videos from the dataset where the word 'blue' is pronounced
 │   ├── train.py          # Main training file
 │   ├── prep_blue.py      # Preprocessing 
 │   ├── realtime.py       # Real-time lip reading from webcam
